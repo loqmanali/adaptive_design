@@ -1,0 +1,20 @@
+name: adaptive_design
+description: "A Flutter package for creating adaptive and responsive UI designs across different screen sizes and orientations."
+version: 1.0.0
+homepage: https://github.com/loqmanali/adaptive_design
+
+environment:
+  sdk: ^3.5.3
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
